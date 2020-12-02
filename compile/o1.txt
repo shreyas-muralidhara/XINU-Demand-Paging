@@ -1,0 +1,23 @@
+c[?7l[2J[0mSeaBIOS (version 1.11.0-2.el7)
+
+
+iPXE (http://ipxe.org) 00:03.0 C980 PCI2.10 PnP PMM+07F95620+07EF5620 C980
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..system running up!
+
+
+PC Xinu (CSC501 1-2017 base) #1 (schikkb@vclv98-118.hpc) Tue Oct 27 22:17:23 EDT 2020
+
+4194304 bytes real mem
+120211 bytes Xinu code
+clock enabled
+
+
+Hello World, Xinu lives
+
+
+Test 6: Stress testing
+	PASSED!
+
